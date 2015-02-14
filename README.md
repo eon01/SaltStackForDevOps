@@ -9,6 +9,9 @@ The main idea behind this book is to provide a content of good quality about Sal
 - See more at : http://saltstackfordevops.com/#sthash.a76njn3X.dpuf
 - Get a free sample : http://bitly.com/1AwDyD5
 
+
+[![](http://saltstackfordevops.com/wp-content/uploads/2015/02/book_cover3.png)](http://bitly.com/SaltStackForDevOps)
+
 Below, an excerpt taken from SaltStack For DevOps :
 
 # Preface

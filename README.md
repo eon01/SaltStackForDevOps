@@ -19,6 +19,7 @@ This book is a fruit of long hours of work and self-learning. Through this book,
 - A practical cheat sheet.
 - SaltStack best practices
 - Getting help and contributing to SaltStack community
+
 ----------
 - Buy it now : http://bitly.com/SaltStackForDevOps
 - See more at : http://saltstackfordevops.com/

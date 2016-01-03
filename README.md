@@ -1,10 +1,25 @@
 # SaltStack For DevOps
-Extremely fast and salable systems and configuration management
+Extremely fast and simple IT automation and configuration management.
 
-Through this book you will learn how to use one of the most flexible and simple DevOps tools.
+Through this book you will learn how to use one of the most powerful System Administrators and DevOps tools.
 
-The main idea behind this book is to provide a content of good quality about SaltStack since readers could have suggestions about ameliorating it before the last version will be released.
+# What SaltStack For DevOps Teaches
 
+This book is a fruit of long hours of work and self-learning. Through this book, it's your turn to discover Saltstack, I will be your guide.
+
+## The 10 most important tips you’ll learn
+
+- Configuration Management And Data Center Automation.
+- Advanced installation of SaltStack with a practical installation case.
+- Configuration and troubleshooting.
+- SaltStack concepts like master, minion, syndic, key management, runners, configurations, states and top file, event-based execution, formulas.
+- Using SaltStack to provision and control a Vagrant environment.
+- Using SaltStack with a Docker container and monitoring Docker host system.
+- Real world examples: installation and configuration of Apache web server, creating you own private storage cloud (SaltStack + Vagrant + OwnCloud), monitoring minions, scheduling monitoring tasks, automating wordpress / LAMP installation and configuration, using Vagrant and Docker..etc
+- A practical cheat sheet.
+- SaltStack best practices
+- Getting help and contributing to SaltStack community
+----------
 - Buy it now : http://bitly.com/SaltStackForDevOps
 - See more at : http://saltstackfordevops.com/
 - Get a free sample : http://bitly.com/1OrL3kv

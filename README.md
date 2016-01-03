@@ -6,11 +6,12 @@ Through this book you will learn how to use one of the most flexible and simple 
 The main idea behind this book is to provide a content of good quality about SaltStack since readers could have suggestions about ameliorating it before the last version will be released.
 
 - Buy it now : http://bitly.com/SaltStackForDevOps
-- See more at : http://saltstackfordevops.com/#sthash.a76njn3X.dpuf
-- Get a free sample : http://bitly.com/1AwDyD5
+- See more at : http://saltstackfordevops.com/
+- Get a free sample : http://bitly.com/1OrL3kv
+- SaltStack CheatSheet : https://github.com/eon01/SaltStackCheatSheet
 
 
-[![](http://saltstackfordevops.com/wp-content/uploads/2015/02/book_cover3.png)](http://bitly.com/SaltStackForDevOps)
+[![](http://saltstackfordevops.com/img/books.jpg)](http://bitly.com/SaltStackForDevOps)
 
 Below, an excerpt taken from SaltStack For DevOps :
 
@@ -284,7 +285,8 @@ The general presentation of Salt is not enough to begin mastering the tool, but 
 
 _________
 
-
 - Buy it now : http://bitly.com/SaltStackForDevOps
-- See more at : http://saltstackfordevops.com/#sthash.a76njn3X.dpuf
-- Get a free sample : http://bitly.com/1AwDyD5
+- See more at : http://saltstackfordevops.com/
+- Get a free sample : http://bitly.com/1OrL3kv
+- SaltStack CheatSheet : https://github.com/eon01/SaltStackCheatSheet
+
